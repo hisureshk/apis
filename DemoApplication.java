@@ -1,4 +1,4 @@
-package com.prudential.apigeeshell;
+package com.demo.apigeeshell;
 
 import java.io.File;
 import java.io.PrintStream;
